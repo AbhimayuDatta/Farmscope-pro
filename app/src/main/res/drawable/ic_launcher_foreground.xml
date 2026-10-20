@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered AgroTech Logo Leaf -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,24C54,24 34,44 34,59C34,70 42.9,79 54,79C65.1,79 74,70 74,59C74,44 54,24 54,24ZM54,74C45.7,74 39,67.3 39,59C39,49.2 51,34.8 54,31.2C57,34.8 69,49.2 69,59C69,67.3 62.3,74 54,74Z" />
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M54,36C54,36 44,48 44,57C44,62.5 48.5,67 54,67C59.5,67 64,62.5 64,57C64,48 54,36 54,36Z" />
+</vector>

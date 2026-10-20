@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spoken forms (resolved in the narrator language) -->
+    <string name="narrator_screen_format">Screen: %1$s</string>
+    <string name="narrator_heading_format">Heading: %1$s</string>
+    <string name="narrator_role_button">%1$s, button</string>
+    <string name="narrator_role_image">Image: %1$s</string>
+
+    <!-- Control bar -->
+    <string name="narrator_cd_play">Start narration</string>
+    <string name="narrator_cd_pause">Pause narration</string>
+    <string name="narrator_cd_resume">Resume narration</string>
+    <string name="narrator_cd_stop">Stop narration</string>
+    <string name="narrator_cd_mute">Mute narrator</string>
+    <string name="narrator_cd_unmute">Unmute narrator</string>
+    <string name="narrator_cd_settings">Narrator settings</string>
+    <string name="narrator_cd_settings_issue">Narrator settings, attention needed</string>
+    <string name="narrator_cd_narrate_element">Read this aloud</string>
+    <string name="narrator_cd_initializing">Narrator is starting</string>
+
+    <!-- Settings sheet -->
+    <string name="narrator_settings_title">Narrator settings</string>
+    <string name="narrator_language">Language</string>
+    <string name="narrator_language_english" translatable="false">English</string>
+    <string name="narrator_language_hindi" translatable="false">हिन्दी</string>
+    <string name="narrator_speech_rate">Speech rate</string>
+    <string name="narrator_pitch">Pitch</string>
+    <string name="narrator_value_multiplier" translatable="false">%1$.1fx</string>
+    <string name="narrator_auto_narrate">Read screens automatically when opened</string>
+    <string name="narrator_mute">Mute narrator</string>
+
+    <!-- Status -->
+    <string name="narrator_status_initializing">Starting text-to-speech…</string>
+    <string name="narrator_status_failed">Text-to-speech could not start. Make sure an engine such as Google Text-to-speech is installed and enabled.</string>
+    <string name="narrator_status_no_engine">No text-to-speech engine was found on this device. Install Google Text-to-speech from the Play Store.</string>
+    <string name="narrator_status_hindi_missing">Hindi voice data is not installed. Narration will use English until you install it.</string>
+    <string name="narrator_status_hindi_unsupported">This text-to-speech engine does not support Hindi. Narration will use English.</string>
+    <string name="narrator_status_speech_error">Speech could not be played. Please try again.</string>
+    <string name="narrator_action_retry">Try again</string>
+    <string name="narrator_action_install_hindi">Install Hindi voice data</string>
+    <string name="narrator_action_tts_settings">Open text-to-speech settings</string>
+    <string name="narrator_install_failed">The installer could not be opened. Go to Settings &gt; Text-to-speech to add Hindi.</string>
+
+    <!-- Sample screen -->
+    <string name="farm_title">FarmSense dashboard</string>
+    <string name="farm_intro">Live readings from your sensors appear here. Use the buttons to sync or export your data.</string>
+    <string name="farm_heading_field">Field 1 sensors</string>
+    <string name="farm_status_image_cd">Crop health indicator: healthy</string>
+    <string name="farm_status_healthy">Crops are healthy</string>
+    <string name="farm_soil_moisture">Soil moisture is %1$d percent</string>
+    <string name="farm_temperature">Air temperature is %1$d degrees Celsius</string>
+    <string name="farm_action_sync">Sync sensors</string>
+    <string name="farm_action_export">Export log as CSV</string>
+</resources>

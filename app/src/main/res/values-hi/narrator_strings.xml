@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spoken forms (resolved in the narrator language) -->
+    <string name="narrator_screen_format">स्क्रीन: %1$s</string>
+    <string name="narrator_heading_format">शीर्षक: %1$s</string>
+    <string name="narrator_role_button">%1$s, बटन</string>
+    <string name="narrator_role_image">चित्र: %1$s</string>
+
+    <!-- Control bar -->
+    <string name="narrator_cd_play">स्क्रीन पढ़ना शुरू करें</string>
+    <string name="narrator_cd_pause">पढ़ना रोकें</string>
+    <string name="narrator_cd_resume">पढ़ना फिर शुरू करें</string>
+    <string name="narrator_cd_stop">पढ़ना बंद करें</string>
+    <string name="narrator_cd_mute">नैरेटर की आवाज़ बंद करें</string>
+    <string name="narrator_cd_unmute">नैरेटर की आवाज़ चालू करें</string>
+    <string name="narrator_cd_settings">नैरेटर सेटिंग</string>
+    <string name="narrator_cd_settings_issue">नैरेटर सेटिंग, ध्यान देने की ज़रूरत है</string>
+    <string name="narrator_cd_narrate_element">इसे ज़ोर से पढ़ें</string>
+    <string name="narrator_cd_initializing">नैरेटर शुरू हो रहा है</string>
+
+    <!-- Settings sheet -->
+    <string name="narrator_settings_title">नैरेटर सेटिंग</string>
+    <string name="narrator_language">भाषा</string>
+    <string name="narrator_speech_rate">बोलने की गति</string>
+    <string name="narrator_pitch">आवाज़ की पिच</string>
+    <string name="narrator_auto_narrate">स्क्रीन खुलने पर अपने-आप पढ़ें</string>
+    <string name="narrator_mute">नैरेटर म्यूट करें</string>
+
+    <!-- Status -->
+    <string name="narrator_status_initializing">टेक्स्ट-टू-स्पीच शुरू हो रहा है…</string>
+    <string name="narrator_status_failed">टेक्स्ट-टू-स्पीच शुरू नहीं हो सका। जाँच करें कि Google टेक्स्ट-टू-स्पीच जैसा कोई इंजन इंस्टॉल और चालू है।</string>
+    <string name="narrator_status_no_engine">इस डिवाइस पर कोई टेक्स्ट-टू-स्पीच इंजन नहीं मिला। Play Store से Google टेक्स्ट-टू-स्पीच इंस्टॉल करें।</string>
+    <string name="narrator_status_hindi_missing">हिन्दी आवाज़ का डेटा इंस्टॉल नहीं है। इंस्टॉल होने तक वर्णन अंग्रेज़ी में होगा।</string>
+    <string name="narrator_status_hindi_unsupported">यह टेक्स्ट-टू-स्पीच इंजन हिन्दी का समर्थन नहीं करता। वर्णन अंग्रेज़ी में होगा।</string>
+    <string name="narrator_status_speech_error">आवाज़ चलाने में समस्या हुई। कृपया दोबारा कोशिश करें।</string>
+    <string name="narrator_action_retry">दोबारा कोशिश करें</string>
+    <string name="narrator_action_install_hindi">हिन्दी आवाज़ का डेटा इंस्टॉल करें</string>
+    <string name="narrator_action_tts_settings">टेक्स्ट-टू-स्पीच सेटिंग खोलें</string>
+    <string name="narrator_install_failed">इंस्टॉलर नहीं खुल सका। सेटिंग &gt; टेक्स्ट-टू-स्पीच में जाकर हिन्दी जोड़ें।</string>
+
+    <!-- Sample screen -->
+    <string name="farm_title">फार्मसेंस डैशबोर्ड</string>
+    <string name="farm_intro">आपके सेंसर की लाइव रीडिंग यहाँ दिखती हैं। डेटा सिंक या एक्सपोर्ट करने के लिए बटन इस्तेमाल करें।</string>
+    <string name="farm_heading_field">खेत 1 के सेंसर</string>
+    <string name="farm_status_image_cd">फ़सल की सेहत का संकेतक: स्वस्थ</string>
+    <string name="farm_status_healthy">फ़सलें स्वस्थ हैं</string>
+    <string name="farm_soil_moisture">मिट्टी की नमी %1$d प्रतिशत है</string>
+    <string name="farm_temperature">हवा का तापमान %1$d डिग्री सेल्सियस है</string>
+    <string name="farm_action_sync">सेंसर सिंक करें</string>
+    <string name="farm_action_export">लॉग CSV में एक्सपोर्ट करें</string>
+</resources>
